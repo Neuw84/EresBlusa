@@ -24,6 +24,8 @@ Aplicación Android para detectar "bebidas espirituosas" relacionadas con el mun
 
 #### Despliegue 
 
+ Bien instalando la última APK manualmente en releases o bien usar la Play Store para buscar la aplicación. 
+
  * Android 6.0 +
 
 #### Entrenamiento
